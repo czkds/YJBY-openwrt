@@ -5,7 +5,7 @@ sudo apt-get update && sudo apt-get install -y curl
 ---
 - ubuntu一键编译openwrt命令
 ```sh
-bash <(curl -fsSL https://raw.githubusercontent.com/shidahuilang/YJBY-openwrt/main/local.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/czkds/YJBY-openwrt/main/local.sh)
 ```
 ---
 
